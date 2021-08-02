@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b31eb0176b64fb12cc05ea162c4dd01f",
+    "revision": "75abacdf807d243a2622bdd95e926aa0",
     "url": "/reactLandingPaeges/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactLandingPaeges/static/css/2.9f603e7f.chunk.css"
   },
   {
-    "revision": "023c480d730fbf795403",
+    "revision": "b24b4d25c55a1dc816fb",
     "url": "/reactLandingPaeges/static/css/main.042e7086.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactLandingPaeges/static/js/2.bf2893c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "023c480d730fbf795403",
-    "url": "/reactLandingPaeges/static/js/main.35ee9b60.chunk.js"
+    "revision": "b24b4d25c55a1dc816fb",
+    "url": "/reactLandingPaeges/static/js/main.3007a946.chunk.js"
   },
   {
     "revision": "f4de38572b4a10f1ebd2",
