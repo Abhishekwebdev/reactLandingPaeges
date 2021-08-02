@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/reactLandingPaeges/static/css/main.042e7086.chunk.css",
+    "main.js": "/reactLandingPaeges/static/js/main.44a68794.chunk.js",
+    "main.js.map": "/reactLandingPaeges/static/js/main.44a68794.chunk.js.map",
+    "runtime-main.js": "/reactLandingPaeges/static/js/runtime-main.cc44004b.js",
+    "runtime-main.js.map": "/reactLandingPaeges/static/js/runtime-main.cc44004b.js.map",
+    "static/css/2.9f603e7f.chunk.css": "/reactLandingPaeges/static/css/2.9f603e7f.chunk.css",
+    "static/js/2.bf2893c5.chunk.js": "/reactLandingPaeges/static/js/2.bf2893c5.chunk.js",
+    "static/js/2.bf2893c5.chunk.js.map": "/reactLandingPaeges/static/js/2.bf2893c5.chunk.js.map",
+    "index.html": "/reactLandingPaeges/index.html",
+    "precache-manifest.e66d4af13efc68deb20edbdc51fcd08d.js": "/reactLandingPaeges/precache-manifest.e66d4af13efc68deb20edbdc51fcd08d.js",
+    "service-worker.js": "/reactLandingPaeges/service-worker.js",
+    "static/css/2.9f603e7f.chunk.css.map": "/reactLandingPaeges/static/css/2.9f603e7f.chunk.css.map",
+    "static/css/main.042e7086.chunk.css.map": "/reactLandingPaeges/static/css/main.042e7086.chunk.css.map",
+    "static/js/2.bf2893c5.chunk.js.LICENSE.txt": "/reactLandingPaeges/static/js/2.bf2893c5.chunk.js.LICENSE.txt",
+    "static/media/4.png": "/reactLandingPaeges/static/media/4.3f5497c8.png",
+    "static/media/bg-2.jpg": "/reactLandingPaeges/static/media/bg-2.ca7034cc.jpg",
+    "static/media/bg-3.jpg": "/reactLandingPaeges/static/media/bg-3.fda2aaed.jpg",
+    "static/media/bg.jpg": "/reactLandingPaeges/static/media/bg.74225eb9.jpg",
+    "static/media/style.css": "/reactLandingPaeges/static/media/home-bg.0d16c744.jpg",
+    "static/media/materialdesignicons.min.css": "/reactLandingPaeges/static/media/materialdesignicons-webfont.f89ba2d8.svg",
+    "static/media/mobiriseicons.css": "/reactLandingPaeges/static/media/mobirise.77a21496.woff",
+    "static/media/mockup1.png": "/reactLandingPaeges/static/media/mockup1.a368359b.png",
+    "static/media/mockup2.png": "/reactLandingPaeges/static/media/mockup2.6696c592.png",
+    "static/media/slick-theme.css": "/reactLandingPaeges/static/media/slick.f97e3bbf.svg",
+    "static/media/team-1.png": "/reactLandingPaeges/static/media/team-1.ece5957f.png",
+    "static/media/team-2.png": "/reactLandingPaeges/static/media/team-2.14c09c7e.png",
+    "static/media/team-3.png": "/reactLandingPaeges/static/media/team-3.9ca050de.png",
+    "static/media/team-4.png": "/reactLandingPaeges/static/media/team-4.28cdf187.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc44004b.js",
+    "static/css/2.9f603e7f.chunk.css",
+    "static/js/2.bf2893c5.chunk.js",
+    "static/css/main.042e7086.chunk.css",
+    "static/js/main.44a68794.chunk.js"
+  ]
+}
